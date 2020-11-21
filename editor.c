@@ -7,7 +7,7 @@
 #include<sys/ioctl.h>
 #include<termios.h>
 #include<unistd.h>
-
+/*** sample***/
 /*** defines ***/
 
 #define CTRL_KEY(k) ((k) & 0x1f)
